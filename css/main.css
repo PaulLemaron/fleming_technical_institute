@@ -1,0 +1,198 @@
+.nav-item{
+    margin-right: 2rem;
+  font-size: 2rem;
+  font-size: 45px;
+  text-transform: capitalize;
+  color: #050f74;
+  text-decoration: none;
+  font-weight: bold;
+
+  
+}
+.nav-item a{
+    color: #050f74;
+    font-size: 14px;
+}
+/*students life CSS starts here*/
+.student_life{
+  text-align: center;
+  font-size: large;
+}
+.student_life p{
+  text-align: center;
+  font-size: large;
+}
+/*students life CSS ends here*/
+/*NEWS CSS Starts here*/
+#contentTwo   {
+  height: 550px;
+  width: 100%;
+  background-color: #D9D9D9;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  margin: 0;
+  padding: 0;
+}
+#insert2 {
+  float: right;
+  height: 100%;
+  width: 28%;
+  padding-right: 70px;
+}
+
+#contentTwo #insert1 {
+  height: 100%;
+  width: 53%; 
+  padding-left: 122px;
+  float: left;
+}
+
+#contentTwo #insert1 #insert1_textblock {
+  padding: 5px;
+  color: #FFF;
+}
+#container #main #contentTwo #insert2 #insert2_textblock {
+  padding: 5px;
+
+}
+#container #main #contentTwo #insert1 p {
+  padding: 10px;
+  margin: 0px;
+}
+
+#contentTwo #insert1 #insert1_title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+  margin: 10px;
+  text-align: left;
+}
+
+#contentTwo #insert2 #insert2_title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+  margin: 10px;
+  text-align: center;
+}
+#container #main #contentTwo #insert1 #insert1_text {
+  margin: 5px;
+  color: #465C8B;
+}
+#contentTwo #insert1 #insert1_textblock #insert1_text #link a {
+  color: #465C8B;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+#insert2 #insert2_textblock #insert2_text {
+  margin: 10px;
+  color: #465C8B;
+}
+#contentTwo #insert2 #insert2_textblock #insert2_text #link a {
+  color: #465C8B;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#contentTwo #insert1 #insert1_text #description {
+  color: #465C8B;
+}
+
+@media only screen and (max-width : 1010px){
+
+#contentTwo   {
+  height: 100%;
+  background-color: #D9D9D9;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  clear: both;
+}
+
+#insert2 {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0px;
+  clear: both;
+}
+
+#contentTwo #insert1 {
+  height: 100%;
+  width: 100%; 
+  padding: 0;
+  margin: 20px;
+  clear: both;
+}
+
+#contentTwo #insert1 #insert1_text #description {
+  padding-right: 20px;
+}
+
+@media only screen and (max-width : 800px){
+  #insert2{
+      padding-top: 50px;  
+  }
+}
+
+@media only screen and (max-width : 735px){
+  #insert2{
+      padding-top: 100px; 
+  }
+}
+
+@media only screen and (max-width : 560px){
+  #insert2{
+      padding-top: 150px; 
+  }
+}
+
+@media only screen and (max-width : 510px){
+  #insert2{
+      padding-top: 200px; 
+  }
+}
+
+@media only screen and (max-width : 460px){
+  #insert2{
+      padding-top: 250px; 
+  }
+}
+
+@media only screen and (max-width : 422px){
+  #insert2{
+      padding-top: 350px; 
+  }
+}
+
+@media only screen and (max-width : 360px){
+  #insert2{
+      padding-top: 450px; 
+  }
+}
+
+@media only screen and (max-width : 338px){
+  #insert2{
+      padding-top: 550px; 
+  }
+}
+
+@media only screen and (max-width : 280px){
+  #insert2{
+      padding-top: 650px; 
+  }
+}
+
+@media only screen and (max-width : 250px){
+  #insert2{
+      padding-top: 750px; 
+  }
+}
+
+}
+/*NEWS CSS ends here*/
