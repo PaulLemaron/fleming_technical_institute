@@ -1055,7 +1055,7 @@ CSS For mision
   .mision,.column,h2,ul,li{
       padding-top: 650px; 
   }
-}
+} 
 
 @media only screen and (max-width : 250px){
   .mision,.column,h2,ul,li{
