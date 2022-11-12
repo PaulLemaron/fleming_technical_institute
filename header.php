@@ -68,20 +68,20 @@
 
   </li>  
   <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="home.html">Home</a>
+      <a class="nav-link active" aria-current="page" href="home.php">Home</a>
     </li>
     
     <li class="nav-item">
-      <a class="nav-link" href="about.html">About Us</a>
+      <a class="nav-link" href="about.php">About Us</a>
     </li>
     <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="courses/" role="button" aria-expanded="false">Our Courses</a>
         <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="courses/computing.html">School of Computing</a></li>
-          <li><a class="dropdown-item" href="courses/engineering.html">School of Engineering</a></li>
-          <li><a class="dropdown-item" href="courses/hospitality.html">School of Hospitality</a></li>
-          <li><a class="dropdown-item" href="courses/media.html">School of Media</a></li>
-          <li><a class="dropdown-item" href="courses/economics.html">School of Business</a></li>
+          <li><a class="dropdown-item" href="courses/computing.php">School of Computing</a></li>
+          <li><a class="dropdown-item" href="courses/engineering.php">School of Engineering</a></li>
+          <li><a class="dropdown-item" href="courses/hospitality.php">School of Hospitality</a></li>
+          <li><a class="dropdown-item" href="courses/media.php">School of Media</a></li>
+          <li><a class="dropdown-item" href="courses/economics.php">School of Business</a></li>
           
         </ul>
       </li>
@@ -89,13 +89,13 @@
         <a class="nav-link" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1jLpLKXpDqlpuq8wqJwwZcQQwylbHf3NGlK9gYLu14vI%2Fviewform%3Fedit_requested%3Dtrue%26fbclid%3DIwAR34rv5ezcXnFxeYzBXjg967NmRyiDtf7mQVluKdjNwQ4R_1Yazk_ffNjwY&h=AT1pArubdcFUX04gmneAr0pdCYevIR-NVTeNDwJEcE9X3tiv541D3JDCDOCKRxFMQCHA_SyWmZ7x8ciut7TYI4YdZG549qFmovFvQklY-YRScNlFjBodDu62unbFnxEXDOrg&__tn__=-UK-R&c[0]=AT02qm2h69kxd69UWDE8qFuM_BmAcHDsWT08QCqV89XdwdjhD0IEMXts2_rhn5BdDUZa5RB9BOIl7XwdDBSNh_6seRts1YwARVqfnvznorQ-T5vrIuKknaTtyvH6yHABFr4jYnkFrClvq3k5Gzjg-3rE5s98jrZT50it9ZP2SFugkyBR8mTH4yAQ0_ARLLdQ3R10D8ieFyGv" target="_blank" >Apply</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="students.html">Students Life</a>
+        <a class="nav-link" href="students.php">Students Life</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="sponsorship and CSR/" role="button" aria-expanded="false">Sponsorship and CSR</a>
         <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="sponsorship and CSR/sponsorship.html">Sponsorship</a></li>
-          <li><a class="dropdown-item" href="sponsorship and CSR/sponsorship.html">Corporate Social Responsibily</a></li>
+          <li><a class="dropdown-item" href="sponsorship and CSR/sponsorship.php">Sponsorship</a></li>
+          <li><a class="dropdown-item" href="sponsorship and CSR/sponsorship.php">Corporate Social Responsibily</a></li>
         </ul>
 
       <li class="nav-item">
@@ -103,31 +103,11 @@
 
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="events.html">Events</a>
+        <a class="nav-link" href="events.php">Events</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="contact.html">Contact Us</a>
+        <a class="nav-link" href="contact.php">Contact Us</a>
       </li>
   </ul>
 <hr>
 </header>
-
-<div class="student_life" >
-<h1 style="color: #050f74; font-size: 60px; ">STUDENTS LIFE</h1>
-<p>What is it like to be a student at Fleming Tech? </p>
-<p>Let us show you what you will be a part of once you've joined us.</p>
-</div>
-<div class="container text-center">
-  <div class="row">
-    <div class="col-6 col-sm-4">.col-6 .col-sm-4</div>
-    <div class="col-6 col-sm-4">.col-6 .col-sm-4</div>
-
-    <!-- Force next columns to break to new line at md breakpoint and up -->
-    <div class="w-100 d-none d-md-block"></div>
-
-    <div class="col-6 col-sm-4">.col-6 .col-sm-4</div>
-    <div class="col-6 col-sm-4">.col-6 .col-sm-4</div>
-  </div>
-</div>
-</body>
-</html>
