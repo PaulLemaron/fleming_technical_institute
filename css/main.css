@@ -3,15 +3,15 @@
   font-size: 2rem;
   font-size: 45px;
   text-transform: capitalize;
-  color: #050f74;
+  color: #102346;
   text-decoration: none;
   font-weight: bold;
 
   
 }
 .nav-item a{
-    color: #050f74;
-    font-size: 14px;
+    color: #102346;
+    font-size: 12px;
 }
 /*students life CSS starts here*/
 .student_life{
@@ -79,27 +79,27 @@
 }
 #container #main #contentTwo #insert1 #insert1_text {
   margin: 5px;
-  color: #465C8B;
+  color: #102346;
 }
 #contentTwo #insert1 #insert1_textblock #insert1_text #link a {
-  color: #465C8B;
+  color: #102346;
   font-size: 16px;
   font-weight: bold;
   text-decoration: underline;
 }
 #insert2 #insert2_textblock #insert2_text {
   margin: 10px;
-  color: #465C8B;
+  color: #102346;
 }
 #contentTwo #insert2 #insert2_textblock #insert2_text #link a {
-  color: #465C8B;
+  color: #102346;
   font-size: 16px;
   font-weight: bold;
   text-decoration: underline;
 }
 
 #contentTwo #insert1 #insert1_text #description {
-  color: #465C8B;
+  color: #102346;
 }
 
 @media only screen and (max-width : 1010px){
@@ -196,3 +196,46 @@
 
 }
 /*NEWS CSS ends here*/
+
+/*Courses CSSS starts here*/
+.school_name h1{
+  text-align: center;
+  color: #102346; 
+  font-size: 60px; 
+  font-weight: bolder;
+}
+#description{
+  text-align: center;
+  font-size: 25px;
+  background-color: #102346;
+  color:  #FFF;
+}
+
+.container-fluid border{
+  width: 150%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: small;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  -webkit-transition: all .2s linear;
+  transition: all .2s linear;
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+/*Courses CSSS ends here*/

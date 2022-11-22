@@ -47,7 +47,7 @@
     "patricio",
     "njeru"
   ],
-  "author": "Paul Lekumok Lemaron and Joseph Ng'ethe",
+  "author": "Paul Lekumok Lemaron",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.2.2"

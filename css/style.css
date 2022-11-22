@@ -63,7 +63,7 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-  background: #050f74;
+  background:#102346;
 }
 
 section {
@@ -73,7 +73,7 @@ section {
 
 .heading-link {
   text-align: center;
-  background: url(../images/heading-bg.jpg) no-repeat;
+  background: no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -91,7 +91,7 @@ section {
 }
 
 .heading-link p a {
-  color: #0eb582;
+  color: #102346;
 }
 
 .heading-link p a:hover {
@@ -118,18 +118,13 @@ section {
   text-transform: capitalize;
 }
 
-.btn:hover {
-  background: #050f74;
-  color: #fff;
-}
-
 .header {
   position: -webkit-sticky;
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
-  background: #fff;
+  background: #f4de77;
   -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
           box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   padding: 2rem 10%;
@@ -144,17 +139,11 @@ section {
 
 .header .logo {
   margin-right: auto;
-  font-size: 2.5rem;
-  text-transform: capitalize;
-  color: #120F2D;
-  font-weight: bolder;
-}
-
-.header .logo i {
-  color: #120F2D;
-  position: absolute;
+ 
 
 }
+
+
 
 .header .navbar {
   position: relative;
@@ -178,15 +167,15 @@ section {
 .header .navbar a {
   margin-right: 2rem;
   font-size: 2rem;
-  font-size: 15px;
+  font-size: 11px;
   text-transform: capitalize;
-  color: #050f74;
+  color: #102346;
   text-decoration: none;
   font-weight: bold;
 }
 
 .header .navbar a:hover {
-  color: #d5ce09;
+  color: #f4de77;
 }
 
 .header .icons div {
@@ -197,7 +186,7 @@ section {
 }
 
 .header .icons div:hover {
-  color: #0eb582;
+  color: #f4de77;
 }
 
 .header #menu-btn {
@@ -259,9 +248,7 @@ section {
   clear: both;
 }
 
-.swiper-pagination-bullet-active {
-  background: #0eb582;
-}
+
 
 .subjects .box-container {
   display: -ms-grid;
@@ -284,7 +271,7 @@ section {
 }
 
 .subjects .box-container .box:hover {
-  background:  #050f74;
+  background:  #102346;
 }
 
 .subjects .box-container .box:hover h3 {
@@ -637,7 +624,7 @@ section {
 }
 
 .courses .box-container .box .content .icons span i {
-  color: #070868;
+  color: #102346;
   padding-right: .5rem;
 }
 
@@ -658,7 +645,7 @@ section {
 .contact .icons-container .icons {
   text-align: center;
   padding: 3rem 2rem;
-  border: 0.1rem solid #d5ce09;
+  border: 0.1rem solid #f4de77;
   background: #f0fdfa;
 }
 
@@ -670,7 +657,7 @@ section {
   border-radius: 50%;
   margin-bottom: .5rem;
   color: #fff;
-  background: #070868;
+  background: #102346;
 }
 
 .contact .icons-container .icons h3 {
@@ -712,7 +699,7 @@ section {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 40rem;
           flex: 1 1 40rem;
-  border: 0.1rem solid  #070868;
+  border: 0.1rem solid  #102346;
   padding: 2rem;
 }
 
@@ -726,13 +713,13 @@ section {
 .contact .row form .box {
   width: 100%;
   padding: 1.2rem 1.4rem;
-  border: 0.1rem solid  #070868;
+  border: 0.1rem solid  #102346;
   font-size: 1.6rem;
   margin: .7rem 0;
 }
 
 .contact .row form .box:focus {
-  background:  #070868;
+  background:  #102346;
   color: #fff;
 }
 
@@ -773,11 +760,11 @@ section {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 40rem;
           flex: 1 1 40rem;
-  border: 0.1rem solid  #070868;
+  border: 0.1rem solid  #102346;
 }
 
 .faq .accordion-container .accordion.active .accordion-heading {
-  background:  #070868;
+  background:  #102346;
 }
 
 .faq .accordion-container .accordion.active .accordion-heading h3 {
@@ -817,7 +804,7 @@ section {
 
 .faq .accordion-container .accordion .accordion-heading i {
   font-size: 2rem;
-  color:  #070868;
+  color:  #102346;
 }
 
 .faq .accordion-container .accordion .accordion-content {
@@ -825,7 +812,7 @@ section {
   font-size: 1.5rem;
   line-height: 2;
   color: #777;
-  border-top: 0.1rem solid  #070868;
+  border-top: 0.1rem solid  #102346;
   display: none;
 }
 
@@ -859,7 +846,7 @@ section {
 }
 
 .footer .box-container .box h3 i {
-  color:  #070868;
+  color: #102346;
 }
 
 .footer .box-container .box .share {
@@ -871,7 +858,7 @@ section {
   width: 4.5rem;
   line-height: 4.5rem;
   font-size: 1.7rem;
-  background-color:  #070868;
+  background-color:  #102346;
   color: #fff;
   margin-right: .3rem;
   text-align: center;
@@ -890,7 +877,7 @@ section {
 }
 
 .footer .box-container .box .link:hover {
-  color:  #070868;
+  color:  #102346;
   text-decoration: underline;
 }
 
@@ -905,7 +892,7 @@ section {
   width: 100%;
   padding: 1.2rem 1.4rem;
   font-size: 1.6rem;
-  border: 0.1rem solid  #070868;
+  border: 0.1rem solid  #102346;
   margin-bottom: 1rem;
 }
 
@@ -916,11 +903,11 @@ section {
   font-size: 2rem;
   text-transform: capitalize;
   color: #444;
-  border-top: 0.1rem solid  #070868;
+  border-top: 0.1rem solid  #102346;
 }
 
 .footer .credit span {
-  color:  #070868;
+  color:  #102346;
 }
 
 @media (max-width: 1200px) {
@@ -971,8 +958,8 @@ section {
     display: block;
   }
   .header .navbar.active {
-    -webkit-box-shadow: 0 0 0 100vw rgba(0, 0, 0, 0.8);
-            box-shadow: 0 0 0 100vw rgba(0, 0, 0, 0.8);
+    -webkit-box-shadow: 0 0 0 100vw #f4de77;
+            box-shadow: 0 0 0 100vw #f4de77;
     right: 0;
   }
   .header .navbar a {
@@ -997,69 +984,9 @@ section {
     font-size: 4rem;
   }
 }
-/*# sourceMappingURL=style.css.map  
-CSS For mision
+/*Courses CSSS starts here*/
 
 
 
 
-@media only screen and (max-width : 800px){
-  .mision,.column,h2,ul,li{
-      padding-top: 50px;  
-  }
-}
-
-@media only screen and (max-width : 735px){
-  .mision,.column,h2,ul,li{
-      padding-top: 100px; 
-  }
-}
-
-@media only screen and (max-width : 560px){
-  .mision,.column,h2,ul,li{
-      padding-top: 150px; 
-  }
-}
-
-@media only screen and (max-width : 510px){
-  .mision,.column,h2,ul,li{
-      padding-top: 200px; 
-  }
-}
-
-@media only screen and (max-width : 460px){
-  .mision,.column,h2,ul,li{
-      padding-top: 250px; 
-  }
-}
-
-@media only screen and (max-width : 422px){
-  .mision,.column,h2,ul,li{
-      padding-top: 350px; 
-  }
-}
-
-@media only screen and (max-width : 360px){
-  .mision,.column,h2,ul,li{
-      padding-top: 450px; 
-  }
-}
-
-@media only screen and (max-width : 338px){
-  .mision,.column,h2,ul,li{
-      padding-top: 550px; 
-  }
-}
-
-@media only screen and (max-width : 280px){
-  .mision,.column,h2,ul,li{
-      padding-top: 650px; 
-  }
-} 
-
-@media only screen and (max-width : 250px){
-  .mision,.column,h2,ul,li{
-      padding-top: 750px; 
-  }
-}
-*/
+/*Courses CSSS starts here*/

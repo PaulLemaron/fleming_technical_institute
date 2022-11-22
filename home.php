@@ -22,8 +22,8 @@
       <div class="swiper-wrapper">
 
          <section class="swiper-slide slide" style="background: url(pictures/students3.png) no-repeat;">
-            <div class="content" style="background-color: #070868; opacity: 1.0; "  >
-               <h3 style="color: #d5ce09;" > Start your career journey with us!</h3>
+            <div class="content" style="background-color: #102346; opacity: 1.0; "  >
+               <h3 style="color: #f4de77;" > Start your career journey with us!</h3>
                <p>At Fleming Technical Institute, we explore much more than just the classroom.
                   Join us and become a solutions provider to problems in the real world. </p>
                   <p> Inspire. Instruct. Incubate</p>
@@ -45,18 +45,18 @@
 <!--Mission and Vision statement starts-->
 <section class="subjects" style="width: 100%; padding:0; margin:0; " >
 
-   <h1 class="heading" style="background-color:#070868; color:#d5ce09; " >INSPIRE. INSTRUCT. INCUBATE</h1>
+   <h1 class="heading" style="background-color:#102346; color:#f4de77; " >INSPIRE. INSTRUCT. INCUBATE</h1>
 
    <div class="box-container" >
 
-      <div class="box" style="background-color: #070868; color: white; text-align: left;"> 
+      <div class="box" style="background-color: #102346; color: white; text-align: left;"> 
 
          <h2 style="font-size: 50px;">Mission</h2>
          <p style="padding: 5px; margin: 20px; "> <b> To provide industry driven technical and practical skills, nurture talent, instill 
             Kingdom guided values and produce economicallly productive graduates. </b></p>
       </div>
 
-      <div class="box" style="background-color: #d5ce09; text-align: left;"> 
+      <div class="box" style="background-color: #f4de77; text-align: left;"> 
 
          <h2 style="font-size: 50px;color: black;">Vision</h2>
          <b> <ul style="list-style-type: disc; padding: 5px; margin: 20px; color: black; " >
@@ -70,7 +70,7 @@
       
       </div>
 
-      <div class="box" style="background-color: #070868; color: white; text-align: left; "> 
+      <div class="box" style="background-color:#102346; color: white; text-align: left; "> 
 
          <h2 style="font-size: 50px;">Core Values</h2>
          <b> <ul style="list-style-type: disc; padding: 5px; margin: 20px; " >
@@ -82,7 +82,7 @@
             <li>Solution Oriented.</li>
             <li> Diversity, Equity and Inclusion (DEI).</li>
           </ul>
-          <button style="background-color: #d5ce09;"> <a href="documents/Fleming Organisational Culture.pdf" target="_blank" style="font-size: 20px; color:black; background-color: #d5ce09; text-decoration: none; "  >Read More</a> </button>
+          <button style="background-color: #f4de77;"> <a href="documents/Fleming Organisational Culture.pdf" target="_blank" style="font-size: 20px; color:black; background-color: #f4de77; text-decoration: none; "  >Read More</a> </button>
          </b>
          <p style="padding: 5px; margin: 20px; "> <b>   </b></p>
         </div> 
@@ -120,7 +120,7 @@
 
 <!-- subjects section starts  -->
 
-<section class="subjects" style="background-color: #d5ce09;">
+<section class="subjects" style="background-color: #f4de77;">
 
    <h1 class="heading">Our Popular Courses</h1>
 

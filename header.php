@@ -26,7 +26,7 @@
 
 </head>
 <body>
-   
+<header>
     <!-- Topbar Start -->
     <div class="container-fluid bg-dark" style="padding: 15px; " >
       <div class="row py-2 px-lg-5">
@@ -59,14 +59,20 @@
       </div>
   </div>
   
-<header>
+
 <hr>
+<li class="nav-item">
+<ul class="nav nav-pills" style="text-align:right; " >
+<!--<section class="logo-container" >-->
+   <div class="swiper logo-slider">
+      <div class="swiper-wrapper" >
+         <div class="swiper-slide"> <img src="pictures/logo.png" alt="" width="125" height="50" > </div>
 
-<ul class="nav nav-pills" style="text-align:right;" >
-  <li class="nav-item">
-    <a href="#" class="logo" style="float: left; "><img src="/pictures/flemming logo.png" alt="logo" width="150" height="50"> </a>
-
-  </li>  
+      </div>
+   </div>
+   
+   </li>
+<!-- </section>  -->
   <li class="nav-item">
       <a class="nav-link active" aria-current="page" href="home.php">Home</a>
     </li>
@@ -77,11 +83,11 @@
     <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="courses/" role="button" aria-expanded="false">Our Courses</a>
         <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="courses/computing.php">School of Computing</a></li>
-          <li><a class="dropdown-item" href="courses/engineering.php">School of Engineering</a></li>
-          <li><a class="dropdown-item" href="courses/hospitality.php">School of Hospitality</a></li>
-          <li><a class="dropdown-item" href="courses/media.php">School of Media</a></li>
-          <li><a class="dropdown-item" href="courses/economics.php">School of Business</a></li>
+          <li><a class="dropdown-item" href="computing.php">School of Computing</a></li>
+          <li><a class="dropdown-item" href="engineering.php">School of Engineering</a></li>
+          <li><a class="dropdown-item" href="hospitality.php">School of Hospitality</a></li>
+          <li><a class="dropdown-item" href="media.php">School of Media</a></li>
+          <li><a class="dropdown-item" href="economics.php">School of Business</a></li>
           
         </ul>
       </li>
@@ -92,11 +98,12 @@
         <a class="nav-link" href="students.php">Students Life</a>
       </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="sponsorship and CSR/" role="button" aria-expanded="false">Sponsorship and CSR</a>
+        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="sponsorship and CSR/" role="button" aria-expanded="false">Sponsorship</a>
         <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="sponsorship and CSR/sponsorship.php">Sponsorship</a></li>
-          <li><a class="dropdown-item" href="sponsorship and CSR/sponsorship.php">Corporate Social Responsibily</a></li>
+          <li><a class="dropdown-item" href="sponsorship.php">Sponsorship</a></li>
+          <li><a class="dropdown-item" href="csr.php">Corporate Social Responsibily</a>
         </ul>
+      </li>
 
       <li class="nav-item">
         <a class="nav-link" href="https://flemingtechnical.blogspot.com/" target="_blank" >Blogs</a>
@@ -104,6 +111,14 @@
       </li>
       <li class="nav-item">
         <a class="nav-link" href="events.php">Events</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#downloads" role="button" aria-expanded="false">Downloads</a>
+        <ul class="dropdown-menu">
+          <li><a class="dropdown-item" href="documents.php">Documents</a></li>
+          <li><a class="dropdown-item" href="photos.php">Photos</a>
+          <li><a class="dropdown-item" href="videos.php">Videos</a>
+        </ul>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="contact.php">Contact Us</a>
