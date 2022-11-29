@@ -4,13 +4,6 @@
 <div class="elfsight-app-31f242d0-4861-4a4d-b8ea-e47b41620629"></div>
 
 
-<!-- account form section starts  -->
-
-
-<!-- account form section ends -->
-
-<!-- header section ends -->
-
 
 <!-- home section starts  -->
 

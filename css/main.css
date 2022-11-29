@@ -99,7 +99,7 @@
 }
 
 #contentTwo #insert1 #insert1_text #description {
-  color: #102346;
+  color: #f4de77;
 }
 
 @media only screen and (max-width : 1010px){
@@ -206,9 +206,9 @@
 }
 #description{
   text-align: center;
-  font-size: 25px;
+  font-size: 15px;
   background-color: #102346;
-  color:  #FFF;
+  color:  #f4de77;
 }
 
 .container-fluid border{

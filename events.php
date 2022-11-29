@@ -5,7 +5,7 @@
   <div id="insert1">
   
   <div id="insert1_title">
-  News and Announcements 
+News and Announcements 
   </div><!-- end title -->
   
   <div id="insert1_textblock">
